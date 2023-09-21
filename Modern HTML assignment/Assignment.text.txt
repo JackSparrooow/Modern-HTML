@@ -1,0 +1,60 @@
+﻿Assignment
+                
+                           Modern HTML
+
+
+Que 1) List Out the feature of HTML5 
+Solution:- HTML is a markup language and they have some feature.
+       i) Audio and Video tag
+       ii) Browser Support
+       iii) API 
+       iv) Local Storage
+       v) header and footer tag
+       vi) nav tag
+       vii) selection tag
+       viii) placeholder attribute
+       ix) email attribute
+
+
+Que 2) What are email entities ? list out 5 commonly  used HTML entities.
+Solution:-
+i) non breaking space :- &nbsp;
+ii) Less than:- &lt;
+iii)Greater than:- &gt; 
+iv) Double quotation mark:- &quot;
+v) copyright:- &copy;
+vi) Registered trademark:- &reg; 
+
+
+Que 3) Define accessibility in the context of the web development discuss why its essential to create accessible website and how its benefits different user group.
+
+
+Solution:- Accessibility nothing but the practice of making your website usable by as many as people possible.
+
+
+i) keyboard compatibility 
+ii) text to speech 
+iii) clear layout and design
+iv) speech recognition
+v) customizable text
+
+
+Benefits:- i) easy to use because people used differents module like smart watches smartphones smart tv etc
+                ii) old people with changing abilities.
+                iii)people with temporary disabilities.
+                iv) people with using slow internet connection.
+
+
+
+
+Que 4)List any three ways which helps us in improving the accessibility of HTML ?
+
+
+Solution:- i) semantic and non semantic :- this elements are meanings if you need a button then use <button> tag no need to used a <div> element.
+ii) create good link text:- A link text explain every clearly what important the reader will get by clicking on the link.
+
+
+iii) Declare the language:- you should always include the “lang” attribute inside the <html> tag to declare the language of the web page.
+
+
+iv) Alternative text:- The “alt” attribute provides an alternative text for an image.
